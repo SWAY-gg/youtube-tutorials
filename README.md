@@ -20,7 +20,7 @@
 | № | Тема | Видео | Исходники |
 | --- | --- | --- | --- |
 | 1 | Первый бот на disnake: установка, токен, слэш-команды `/ping` и `/say` | [Смотреть](https://youtu.be/oNU59VmXWlo) | [Эпизод 1](../../releases#release-1-Tutorial) |
-| 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть]([ССЫЛКА НА ВИДЕО 2]) | [ep-02](../..releases#release-2-Tutorial) |
+| 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть](https://youtu.be/xUQFX3Jana0) | [ep-02](../../releases#release-2-Tutorial) |
 | 3 | Выпадающие меню и модальные окна | скоро | — |
 
 ## Что понадобится

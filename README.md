@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | 1 | Первый бот на disnake: установка, токен, слэш-команды `/ping` и `/say` | [Смотреть](https://youtu.be/oNU59VmXWlo) | [Эпизод 1](../../releases#release-1-Tutorial) |
 | 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть](https://youtu.be/_JTmVHVmYRg) | [Эпизод 2](../../releases#release-2-Tutorial) |
-| 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть]( ) | [Эпизод 3](../../releases#release-3-Tutorial) |
+| 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть](https://youtu.be/ATyLQjmmlRs) | [Эпизод 3](../../releases#release-3-Tutorial) |
 | 4 | Коги и структура проекта | скоро | — |
 
 ## Что понадобится

@@ -12,10 +12,11 @@
 
 | № | Тема | Видео | Исходники |
 | --- | --- | --- | --- |
-| 1 | Первый бот на disnake: установка, токен, слэш-команды `/ping` и `/say` | [Смотреть](https://youtu.be/oNU59VmXWlo) | [Эпизод 1](../../releases#release-1-Tutorial) |
-| 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть](https://youtu.be/_JTmVHVmYRg) | [Эпизод 2](../../releases#release-2-Tutorial) |
-| 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть](https://youtu.be/ATyLQjmmlRs) | [Эпизод 3](../../releases#release-3-Tutorial) |
-| 4 | Коги и структура проекта | скоро | — |
+| 1 | Первый бот на disnake: установка, токен, слэш-команды `/ping` и `/say` | [Смотреть](https://youtu.be/oNU59VmXWlo) | [Эпизод 1](../../releases/tag/1-Tutorial) |
+| 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть](https://youtu.be/_JTmVHVmYRg) | [Эпизод 2](../../releases/tag/2-Tutorial) |
+| 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть](https://youtu.be/ATyLQjmmlRs) | [Эпизод 3](../../releases/tag/3-Tutorial) |
+| 4 | Коги и структура проекта: раскладываем бота по файлам в папке `cogs` | [Смотреть](https://youtu.be/LNOXyl_Go6E) | [Эпизод 4](../../releases/tag/4-Tutorial) |
+| 5 | База данных SQLite | скоро | — |
 
 ## Что понадобится
 

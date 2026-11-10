@@ -16,7 +16,8 @@
 | 2 | Эмбеды и кнопки: `/profile` и игра `/dice` | [Смотреть](https://youtu.be/_JTmVHVmYRg) | [Эпизод 2](../../releases/tag/2-Tutorial) |
 | 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть](https://youtu.be/ATyLQjmmlRs) | [Эпизод 3](../../releases/tag/3-Tutorial) |
 | 4 | Коги и структура проекта: раскладываем бота по файлам в папке `cogs` | [Смотреть](https://youtu.be/LNOXyl_Go6E) | [Эпизод 4](../../releases/tag/4-Tutorial) |
-| 5 | База данных SQLite | скоро | — |
+| 5 | База данных SQLite: экономика `/balance`, `/daily` и `/top` | [Смотреть](https://youtu.be/pmkAo_fkgS0) | [Эпизод 5](../../releases/tag/5-Tutorial) |
+| 6 | Магазин ролей за монеты | скоро | — |
 
 ## Что понадобится
 

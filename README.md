@@ -17,7 +17,8 @@
 | 3 | Выпадающие меню и модальные окна: `/lang` и форма `/feedback` | [Смотреть](https://youtu.be/ATyLQjmmlRs) | [Эпизод 3](../../releases/tag/3-Tutorial) |
 | 4 | Коги и структура проекта: раскладываем бота по файлам в папке `cogs` | [Смотреть](https://youtu.be/LNOXyl_Go6E) | [Эпизод 4](../../releases/tag/4-Tutorial) |
 | 5 | База данных SQLite: экономика `/balance`, `/daily` и `/top` | [Смотреть](https://youtu.be/pmkAo_fkgS0) | [Эпизод 5](../../releases/tag/5-Tutorial) |
-| 6 | Магазин ролей за монеты | скоро | — |
+| 6 | Магазин ролей за монеты: `/shop`, `/shop_add` и `/shop_remove` | [Смотреть](https://youtu.be/G6tLVd-M2L0) | [Эпизод 6](../../releases/tag/6-Tutorial) |
+| 7 | Обработка ошибок и кулдауны | скоро | — |
 
 ## Что понадобится
 

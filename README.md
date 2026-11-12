@@ -18,7 +18,8 @@
 | 4 | Коги и структура проекта: раскладываем бота по файлам в папке `cogs` | [Смотреть](https://youtu.be/LNOXyl_Go6E) | [Эпизод 4](../../releases/tag/4-Tutorial) |
 | 5 | База данных SQLite: экономика `/balance`, `/daily` и `/top` | [Смотреть](https://youtu.be/pmkAo_fkgS0) | [Эпизод 5](../../releases/tag/5-Tutorial) |
 | 6 | Магазин ролей за монеты: `/shop`, `/shop_add` и `/shop_remove` | [Смотреть](https://youtu.be/G6tLVd-M2L0) | [Эпизод 6](../../releases/tag/6-Tutorial) |
-| 7 | Обработка ошибок и кулдауны | скоро | — |
+| 7 | Обработка ошибок и кулдауны: обработчик `on_slash_command_error`, `@commands.cooldown` | [Смотреть](https://youtu.be/bhBybWyno-o) | [Эпизод 7](../../releases/tag/7-Tutorial) |
+| 8 | Фоновые задачи | скоро | — |
 
 ## Что понадобится
 
